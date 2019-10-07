@@ -49,7 +49,7 @@ public class BirthDayTest{
 		
 		day.setYear(2018);	// 쓸 수 있지만 메서드를 이용해서 쓸 수 있다
 		day.setMonth(2);
-		day.setDay(31);		
+		day.setDay(31);	
 		
 	}
 	
